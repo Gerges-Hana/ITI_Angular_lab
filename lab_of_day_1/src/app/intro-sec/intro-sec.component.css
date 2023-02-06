@@ -1,0 +1,7 @@
+.container {
+  background-image: url("../assets/imgs/photo.jpg");
+  height: 70vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: antiquewhite;
+}
